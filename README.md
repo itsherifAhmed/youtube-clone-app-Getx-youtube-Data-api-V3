@@ -104,12 +104,18 @@ Youtube Clone App By Flutter With GetX EcoSystem And Youtube Data Api V3
 
  <p align="center"><b>minSdkVersion 19</b></p>
  <p align="center"><b>targetSdkVersion 28</b></p>
+ <p><img src="snapshot/GetX_Structure.png" /></p>
 ## Dependencies 💤
  -  `get:`
+ -  
  -  `flutter_svg:`
+ -  
  -  `youtube_player_flutter:`
+ -  
  -  `intl:`
+ -  
  -  `shared_preferences:`
+ -  
  -  `cached_network_image:`
 
 
