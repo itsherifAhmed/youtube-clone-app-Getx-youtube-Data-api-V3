@@ -42,6 +42,7 @@ Youtube Clone App By Flutter With GetX EcoSystem And Youtube Data Api V3
 - [x] [GetX]
 - [x] [GetXService]
 - [x] [GetXController]
+- [x] [GetConnect]
 
 --------------------------------
 - [x] MVC patterns
